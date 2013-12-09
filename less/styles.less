@@ -1,0 +1,88 @@
+//Mixins
+@import "bootstrap.less";
+@import "mixins.less";
+
+//Font
+.small-caps {
+  font-variant: small-caps;
+}
+
+//Bootstrap Overrides
+@grid-float-breakpoint: @screen-md-min;
+@font-family-base: Georgia, Times, "Times New Roman", serif;
+@font-size-base: 14px;
+h5 {
+  font-size: 16px;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: inherit;
+}
+
+.navbar {
+  margin-bottom: 0px;
+}
+
+//Main Styles
+body {
+  background-color: #231F20;
+  color: white;
+}
+
+.green-bg {
+  background-color: rgb(0, 64, 77);
+}
+
+.green-text {
+  color: rgb(0, 64, 77);
+}
+
+.light-green-text {
+  color: rgb(129, 158, 160);
+}
+
+hr {
+  border-color: rgb(129, 158, 160);
+  border-style: dashed;
+  opacity: 0.5;
+}
+
+.disc-list {
+  padding-left: 18px;
+}
+
+.padding-bottom {
+  padding-bottom: 30px;
+}
+
+.header-table {
+  tbody {
+    vertical-align: bottom;
+  }
+}
+
+.banner {
+  background-repeat: no-repeat;
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#home-page-banner {
+  height: 348px;
+  background-image: url(../images/home-page-banner.jpg);
+}
+
+#logo-big {
+  position: absolute;
+  top: -77px;
+
+  + .clear {
+    width: 151px;
+  }
+}
+
+//Responsive
+@import "responsive.less";
