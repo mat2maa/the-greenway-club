@@ -46,6 +46,7 @@ h5 {
 
 .navbar-collapse {
   border: none;
+  background-color: #f5f5f5;
 
   .navbar-nav {
     margin-top: 32.5px;
@@ -65,6 +66,17 @@ h5 {
   padding-bottom: 7px;
 }
 
+.navbar-nav > li > .dropdown-menu {
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  -ms-border-radius: 0px;
+  -o-border-radius: 0px;
+  border-radius: 0px;
+  border: none;
+  -webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+}
+
 //Main Styles
 body {
   background-color: #231F20;
@@ -73,6 +85,19 @@ body {
 
 .green-bg {
   background-color: rgb(0, 64, 77);
+}
+
+.radial-green-bg {
+  background: #00424a; /* Old browsers */
+  /* IE9 SVG, needs conditional override of 'filter' to 'none' */
+  background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPHJhZGlhbEdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgY3g9IjUwJSIgY3k9IjUwJSIgcj0iNzUlIj4KICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMwMDQyNGEiIHN0b3Atb3BhY2l0eT0iMSIvPgogICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMDAyZTM2IiBzdG9wLW9wYWNpdHk9IjEiLz4KICA8L3JhZGlhbEdyYWRpZW50PgogIDxyZWN0IHg9Ii01MCIgeT0iLTUwIiB3aWR0aD0iMTAxIiBoZWlnaHQ9IjEwMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+  background: -moz-radial-gradient(center, ellipse cover,  #00424a 0%, #002e36 100%); /* FF3.6+ */
+  background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#00424a), color-stop(100%,#002e36)); /* Chrome,Safari4+ */
+  background: -webkit-radial-gradient(center, ellipse cover,  #00424a 0%,#002e36 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-radial-gradient(center, ellipse cover,  #00424a 0%,#002e36 100%); /* Opera 12+ */
+  background: -ms-radial-gradient(center, ellipse cover,  #00424a 0%,#002e36 100%); /* IE10+ */
+  background: radial-gradient(ellipse at center,  #00424a 0%,#002e36 100%); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00424a', endColorstr='#002e36',GradientType=1 ); /* IE6-8 fallback on horizontal gradient */
 }
 
 .green-text {
@@ -107,9 +132,23 @@ hr {
   background-size: cover;
 }
 
+.logo-banner {
+  background-repeat: no-repeat;
+  background-position: center center;
+  -webkit-background-size: 100px;
+  -moz-background-size: 100px;
+  -o-background-size: 100px;
+  background-size: 100px;
+}
+
 #home-page-banner {
   height: 348px;
-  background-image: url(../images/home-page-banner.jpg);
+  background-image: url(/images/home-page-banner.jpg);
+}
+
+#logo-banner {
+  height: 120px;
+  background-image: url(/images/logo-big.png);
 }
 
 #logo-big {
