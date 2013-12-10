@@ -1,6 +1,6 @@
 $(document).ready(function () {
     var duration = 0;
-    $(document).pjax('a', '.pjax-container', {
+    $(document).pjax('a.pjax-link', '.pjax-container', {
         fragment: '.pjax-container',
         duration: duration,
         container: '#main',

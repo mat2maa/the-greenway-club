@@ -25,7 +25,7 @@
       <file leaf-file-name="scripts.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/scripts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="0" selection-start="867" selection-end="867" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1736">
+            <state line="2" column="24" selection-start="78" selection-end="87" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1347">
               <folding />
             </state>
           </provider>
@@ -34,7 +34,7 @@
       <file leaf-file-name="styles.less" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/less/styles.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="165" column="20" selection-start="5390" selection-end="5390" vertical-scroll-proportion="-33.75" vertical-offset="1665" max-vertical-offset="4487">
+            <state line="191" column="34" selection-start="5783" selection-end="5783" vertical-scroll-proportion="-10.875" vertical-offset="2604" max-vertical-offset="4368">
               <folding />
             </state>
           </provider>
@@ -43,7 +43,7 @@
       <file leaf-file-name="responsive.less" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/less/responsive.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="79" column="3" selection-start="2729" selection-end="2729" vertical-scroll-proportion="-12.166667" vertical-offset="893" max-vertical-offset="2792">
+            <state line="79" column="3" selection-start="2729" selection-end="2729" vertical-scroll-proportion="-12.166667" vertical-offset="893" max-vertical-offset="2403">
               <folding />
             </state>
           </provider>
@@ -52,16 +52,25 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="80" column="126" selection-start="3223" selection-end="3223" vertical-scroll-proportion="-16.375" vertical-offset="807" max-vertical-offset="3662">
+            <state line="74" column="0" selection-start="2938" selection-end="2969" vertical-scroll-proportion="-11.583333" vertical-offset="832" max-vertical-offset="3483">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="meet-the-owners.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="meet-the-owners.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/meet-the-owners.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="83" column="0" selection-start="3053" selection-end="3053" vertical-scroll-proportion="0.25909495" vertical-offset="953" max-vertical-offset="3632">
+            <state line="16" column="0" selection-start="629" selection-end="629" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="4218">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="a-letter.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/a-letter.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="51" column="67" selection-start="2273" selection-end="2273" vertical-scroll-proportion="-10.25" vertical-offset="519" max-vertical-offset="3603">
               <folding />
             </state>
           </provider>
@@ -70,7 +79,34 @@
       <file leaf-file-name="become-a-member.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/become-a-member.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="110" column="0" selection-start="3072" selection-end="4146" vertical-scroll-proportion="-41.916668" vertical-offset="644" max-vertical-offset="3542">
+            <state line="6" column="18" selection-start="0" selection-end="6485" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="3408">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="location.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/location.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="104" column="31" selection-start="3926" selection-end="3931" vertical-scroll-proportion="-23.25" vertical-offset="1002" max-vertical-offset="3723">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rental-faq.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rental-faq.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="90" column="0" selection-start="3299" selection-end="3371" vertical-scroll-proportion="-9.625" vertical-offset="1119" max-vertical-offset="9183">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rental-terms.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rental-terms.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="236" column="25" selection-start="7675" selection-end="7675" vertical-scroll-proportion="0.9430894" vertical-offset="2844" max-vertical-offset="6978">
               <folding />
             </state>
           </provider>
@@ -90,11 +126,15 @@
         <option value="$PROJECT_DIR$/become-a-member/index.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/less/responsive.less" />
-        <option value="$PROJECT_DIR$/become-a-member.html" />
         <option value="$PROJECT_DIR$/js/scripts.js" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/less/styles.less" />
         <option value="$PROJECT_DIR$/meet-the-owners.html" />
+        <option value="$PROJECT_DIR$/become-a-member.html" />
+        <option value="$PROJECT_DIR$/location.html" />
+        <option value="$PROJECT_DIR$/a-letter.html" />
+        <option value="$PROJECT_DIR$/rental-faq.html" />
+        <option value="$PROJECT_DIR$/less/styles.less" />
+        <option value="$PROJECT_DIR$/rental-terms.html" />
       </list>
     </option>
   </component>
@@ -247,6 +287,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32994062" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -258,7 +299,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -424,27 +464,6 @@
         <state line="0" column="6" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1151" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/scripts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="0" selection-start="867" selection-end="867" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1736">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/become-a-member.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="110" column="0" selection-start="3072" selection-end="4146" vertical-scroll-proportion="-41.916668" vertical-offset="644" max-vertical-offset="3542">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less/styles.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="165" column="20" selection-start="5390" selection-end="5390" vertical-scroll-proportion="-33.75" vertical-offset="1665" max-vertical-offset="4487">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/less/responsive.less">
       <provider selected="true" editor-type-id="text-editor">
         <state line="79" column="3" selection-start="2729" selection-end="2729" vertical-scroll-proportion="-12.166667" vertical-offset="893" max-vertical-offset="2792">
@@ -454,14 +473,63 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="80" column="126" selection-start="3223" selection-end="3223" vertical-scroll-proportion="-16.375" vertical-offset="807" max-vertical-offset="3662">
+        <state line="74" column="0" selection-start="2938" selection-end="2969" vertical-scroll-proportion="-11.583333" vertical-offset="832" max-vertical-offset="3483">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/meet-the-owners.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="83" column="0" selection-start="3053" selection-end="3053" vertical-scroll-proportion="0.25909495" vertical-offset="953" max-vertical-offset="3632">
+        <state line="16" column="0" selection-start="629" selection-end="629" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="4218">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a-letter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="67" selection-start="2273" selection-end="2273" vertical-scroll-proportion="-10.25" vertical-offset="519" max-vertical-offset="3603">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/become-a-member.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="18" selection-start="0" selection-end="6485" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="3408">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/location.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="104" column="31" selection-start="3926" selection-end="3931" vertical-scroll-proportion="-23.25" vertical-offset="1002" max-vertical-offset="3723">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rental-faq.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="90" column="0" selection-start="3299" selection-end="3371" vertical-scroll-proportion="-9.625" vertical-offset="1119" max-vertical-offset="9183">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/styles.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="191" column="34" selection-start="5783" selection-end="5783" vertical-scroll-proportion="-10.875" vertical-offset="2604" max-vertical-offset="4368">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="24" selection-start="78" selection-end="87" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1736">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rental-terms.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="236" column="25" selection-start="7675" selection-end="7675" vertical-scroll-proportion="0.9430894" vertical-offset="2844" max-vertical-offset="6978">
           <folding />
         </state>
       </provider>
