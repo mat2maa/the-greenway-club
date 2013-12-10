@@ -50,8 +50,10 @@
     border-radius: 0px;
   }
 
-  .navbar-collapse .navbar-nav {
-    margin-top: 0;
+  #home-page {
+    .navbar-collapse .navbar-nav {
+      margin-top: 0;
+    }
   }
 
   .navbar-header {
@@ -71,8 +73,10 @@
     margin-right: -15px;
   }
 
-  .navbar-collapse {
-    background-color: transparent;
+  body:not(#home-page) {
+    .navbar-collapse {
+      background-color: transparent;
+    }
   }
 }
 
