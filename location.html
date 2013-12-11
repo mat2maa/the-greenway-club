@@ -52,15 +52,8 @@
               <li><a href="rental-terms.html">Rental Terms</a></li>
             </ul>
           </li>
-          <li class="dropdown">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pool Info <b class="caret"></b></a>
-            <ul class="dropdown-menu">
-              <li><a href="#">Pool Info</a></li>
-              <li><a href="#">Tennis</a></li>
-              <li><a href="#">Calendar</a></li>
-            </ul>
-          </li>
-          <li><a href="#">Swim Team</a></li>
+          <li><a href="/pool-info.html">Pool Info</a></li>
+          <li><a href="/swim-team.html">Swim Team</a></li>
           <li><a href="#">Friday Night Live</a></li>
           <li><a href="#">Camps</a></li>
         </ul>
@@ -116,7 +109,7 @@
           var myLatLng = new google.maps.LatLng(35.911369, -78.588076);
           var markers = [];
 
-          google.maps.event.addDomListener(window, 'resize', function() {
+          google.maps.event.addDomListener(window, 'resize', function () {
             map.setCenter(myLatLng);
           });
 
@@ -129,7 +122,7 @@
             }));
           }
 
-          setTimeout(function() {
+          setTimeout(function () {
             addMarker();
           }, 1500);
 
