@@ -26,6 +26,15 @@
 
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: @screen-md-min) {
+  .h3-margin {
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+
+  .large-font {
+    font-size: 18px;
+  }
+
   .row:not(.no-padding) {
     padding-left: 45px;
     padding-right: 45px;
@@ -106,4 +115,50 @@
 
 @media (min-width: @screen-lg-min) {
 
+}
+
+@media (max-width: @screen-sm-max) {
+  // Force table to not be like tables anymore
+  table.no-more-tables, .no-more-tables thead, .no-more-tables tbody, .no-more-tables th, .no-more-tables td, .no-more-tables tr {
+    display: block;
+  }
+
+  // Hide table headers (but not display: none;, for accessibility)
+  .no-more-tables thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  .no-more-tables tr:nth-of-type(odd) {
+    background-color: rgba(255, 255, 255, 0.12);
+  }
+
+  // Behave  like a "row"
+  .no-more-tables td {
+    border: none;
+    position: relative;
+    padding-left: 50% !important;
+    white-space: normal;
+    text-align: left;
+    word-wrap:break-word;
+  }
+
+  .no-more-tables td:before {
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 6px;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: nowrap;
+    text-align: left;
+    font-weight: bold;
+  }
+
+  // Label the data
+  .no-more-tables td:before {
+    content: attr(data-title);
+  }
 }

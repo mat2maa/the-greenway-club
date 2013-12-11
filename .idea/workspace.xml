@@ -25,7 +25,7 @@
       <file leaf-file-name="styles.less" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/less/styles.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="234" column="52" selection-start="6606" selection-end="6606" vertical-scroll-proportion="-29.041666" vertical-offset="2813" max-vertical-offset="4832">
+            <state line="257" column="48" selection-start="7114" selection-end="7114" vertical-scroll-proportion="-10.0" vertical-offset="3615" max-vertical-offset="5177">
               <folding />
             </state>
           </provider>
@@ -34,25 +34,16 @@
       <file leaf-file-name="responsive.less" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/less/responsive.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="83" column="3" selection-start="2788" selection-end="2788" vertical-scroll-proportion="-17.166666" vertical-offset="833" max-vertical-offset="2732">
+            <state line="143" column="25" selection-start="3983" selection-end="3983" vertical-scroll-proportion="-25.708334" vertical-offset="1528" max-vertical-offset="3557">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="rental-faq.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rental-faq.html">
+      <file leaf-file-name="camps.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/camps.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="53" selection-start="0" selection-end="14641" vertical-scroll-proportion="-25.708334" vertical-offset="208" max-vertical-offset="9467">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="swim-team.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/swim-team.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="207" column="0" selection-start="7296" selection-end="7296" vertical-scroll-proportion="0.8003549" vertical-offset="2218" max-vertical-offset="4847">
+            <state line="173" column="106" selection-start="5665" selection-end="5665" vertical-scroll-proportion="0.8669033" vertical-offset="1618" max-vertical-offset="5927">
               <folding />
             </state>
           </provider>
@@ -71,18 +62,20 @@
         <option value="$PROJECT_DIR$/less/mixins.less" />
         <option value="$PROJECT_DIR$/become-a-member/index.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/less/responsive.less" />
         <option value="$PROJECT_DIR$/js/scripts.js" />
-        <option value="$PROJECT_DIR$/less/styles.less" />
         <option value="$PROJECT_DIR$/rental-terms.html" />
-        <option value="$PROJECT_DIR$/rental-faq.html" />
         <option value="$PROJECT_DIR$/become-a-member.html" />
         <option value="$PROJECT_DIR$/meet-the-owners.html" />
         <option value="$PROJECT_DIR$/location.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/pool-info.html" />
-        <option value="$PROJECT_DIR$/a-letter.html" />
+        <option value="$PROJECT_DIR$/rental-faq.html" />
         <option value="$PROJECT_DIR$/swim-team.html" />
+        <option value="$PROJECT_DIR$/less/responsive.less" />
+        <option value="$PROJECT_DIR$/friday-night-live.html" />
+        <option value="$PROJECT_DIR$/a-letter.html" />
+        <option value="$PROJECT_DIR$/less/styles.less" />
+        <option value="$PROJECT_DIR$/camps.html" />
       </list>
     </option>
   </component>
@@ -116,16 +109,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -142,6 +125,16 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="the-greenway-club" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -257,8 +250,8 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -278,11 +271,30 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/scripts.js">
+    <entry file="file://$PROJECT_DIR$/less/styles.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="24" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="30">
+        <state line="234" column="13" selection-start="6564" selection-end="6564" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3675">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/responsive.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="83" column="3" selection-start="2788" selection-end="2788" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1650">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rental-faq.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="53" selection-start="0" selection-end="14641" vertical-scroll-proportion="0.0" vertical-offset="825" max-vertical-offset="8490">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="24" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="30" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/less/styles.less">
@@ -308,9 +320,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/scripts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="30">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="30" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/less/styles.less">
@@ -336,9 +346,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/scripts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="30">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="30" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/less/styles.less">
@@ -364,9 +372,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/scripts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="30">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="30" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/less/styles.less">
@@ -392,9 +398,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/scripts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="30">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="30" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/less/styles.less">
@@ -432,16 +436,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/scripts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less/styles.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="234" column="52" selection-start="6606" selection-end="6606" vertical-scroll-proportion="-29.041666" vertical-offset="2813" max-vertical-offset="4832">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rental-terms.html">
@@ -465,13 +460,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pool-info.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="149" column="30" selection-start="4386" selection-end="4386" vertical-scroll-proportion="1.8899734" vertical-offset="105" max-vertical-offset="3962">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/become-a-member.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="54" column="0" selection-start="2261" selection-end="2261" vertical-scroll-proportion="0.3327418" vertical-offset="435" max-vertical-offset="3692">
@@ -479,37 +467,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/less/responsive.less">
+    <entry file="file://$PROJECT_DIR$/rental-faq.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="83" column="3" selection-start="2788" selection-end="2788" vertical-scroll-proportion="-17.166666" vertical-offset="833" max-vertical-offset="2732">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/a-letter.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="6" selection-start="0" selection-end="7714" vertical-scroll-proportion="0.3318545" vertical-offset="571" max-vertical-offset="3887">
+        <state line="55" column="57" selection-start="2413" selection-end="2413" vertical-scroll-proportion="0.10647737" vertical-offset="705" max-vertical-offset="9467">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="93" column="0" selection-start="3415" selection-end="3464" vertical-scroll-proportion="0.5039929" vertical-offset="827" max-vertical-offset="3767">
+        <state line="109" column="19" selection-start="4081" selection-end="4081" vertical-scroll-proportion="0.3487134" vertical-offset="1242" max-vertical-offset="3767">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rental-faq.html">
+    <entry file="file://$PROJECT_DIR$/a-letter.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="53" selection-start="0" selection-end="14641" vertical-scroll-proportion="-25.708334" vertical-offset="208" max-vertical-offset="9467">
+        <state line="63" column="6" selection-start="2638" selection-end="2638" vertical-scroll-proportion="0.41969833" vertical-offset="472" max-vertical-offset="3887">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/friday-night-live.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="23" selection-start="0" selection-end="10169" vertical-scroll-proportion="0.14640638" vertical-offset="180" max-vertical-offset="6122">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pool-info.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="69" selection-start="1082" selection-end="1082" vertical-scroll-proportion="0.15971605" vertical-offset="255" max-vertical-offset="3962">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/responsive.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="143" column="25" selection-start="3983" selection-end="3983" vertical-scroll-proportion="-25.708334" vertical-offset="1528" max-vertical-offset="3557">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/styles.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="257" column="48" selection-start="7114" selection-end="7114" vertical-scroll-proportion="-10.0" vertical-offset="3615" max-vertical-offset="5177">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/swim-team.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="207" column="0" selection-start="7296" selection-end="7296" vertical-scroll-proportion="0.8003549" vertical-offset="2218" max-vertical-offset="4847">
+        <state line="140" column="0" selection-start="3983" selection-end="4902" vertical-scroll-proportion="0.69476485" vertical-offset="1317" max-vertical-offset="11372">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camps.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="173" column="106" selection-start="5665" selection-end="5665" vertical-scroll-proportion="0.8669033" vertical-offset="1618" max-vertical-offset="5927">
           <folding />
         </state>
       </provider>
