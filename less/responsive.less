@@ -87,6 +87,11 @@
       background-color: transparent;
     }
   }
+
+  .small-caps-md {
+    font-variant: small-caps;
+  }
+
 }
 
 /* Large devices (large desktops, 1200px and up) */
@@ -154,11 +159,17 @@
     padding-right: 10px;
     white-space: nowrap;
     text-align: left;
-    font-weight: bold;
+    font-variant: small-caps;
+    color: rgb(129, 158, 160);
+    text-transform: capitalize;
   }
 
   // Label the data
   .no-more-tables td:before {
     content: attr(data-title);
+  }
+
+  #camps-banner {
+    background-position: -169px center;
   }
 }

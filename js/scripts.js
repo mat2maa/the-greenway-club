@@ -28,6 +28,9 @@ $(document).on('pjax:send', function () {
 });
 $(document).on('pjax:complete', function () {
     console.log("pjax:complete");
+    setTimeout(function() {
+        $('#navbar-collapse').collapse('hide');
+    }, 350);
 });
 $(document).on('pjax:success', function () {
     console.log("pjax:success");
