@@ -22,53 +22,7 @@
     <favorites_list name="the-greenway-club" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="become-a-member.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/become-a-member.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="133" column="37" selection-start="5223" selection-end="5239" vertical-scroll-proportion="0.0" vertical-offset="1365" max-vertical-offset="2745">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="location.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/location.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="186" column="0" selection-start="5873" selection-end="6135" vertical-scroll-proportion="0.0" vertical-offset="1884" max-vertical-offset="2985">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="rental-faq.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rental-faq.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="66" column="28" selection-start="2795" selection-end="2795" vertical-scroll-proportion="-19.041666" vertical-offset="533" max-vertical-offset="8445">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="friday-night-live.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/friday-night-live.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="192" column="46" selection-start="5876" selection-end="5876" vertical-scroll-proportion="-17.5" vertical-offset="2460" max-vertical-offset="5145">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pool-info.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pool-info.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="151" column="137" selection-start="4852" selection-end="4852" vertical-scroll-proportion="0.4359673" vertical-offset="1785" max-vertical-offset="2985">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -81,20 +35,20 @@
         <option value="$PROJECT_DIR$/less/mixins.less" />
         <option value="$PROJECT_DIR$/become-a-member/index.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/meet-the-owners.html" />
-        <option value="$PROJECT_DIR$/location.html" />
-        <option value="$PROJECT_DIR$/a-letter.html" />
-        <option value="$PROJECT_DIR$/rental-terms.html" />
-        <option value="$PROJECT_DIR$/rental-faq.html" />
-        <option value="$PROJECT_DIR$/swim-team.html" />
-        <option value="$PROJECT_DIR$/camps.html" />
         <option value="$PROJECT_DIR$/js/scripts.js" />
         <option value="$PROJECT_DIR$/less/styles.less" />
         <option value="$PROJECT_DIR$/less/responsive.less" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/a-letter.html" />
         <option value="$PROJECT_DIR$/become-a-member.html" />
+        <option value="$PROJECT_DIR$/camps.html" />
         <option value="$PROJECT_DIR$/friday-night-live.html" />
+        <option value="$PROJECT_DIR$/location.html" />
+        <option value="$PROJECT_DIR$/meet-the-owners.html" />
         <option value="$PROJECT_DIR$/pool-info.html" />
+        <option value="$PROJECT_DIR$/rental-faq.html" />
+        <option value="$PROJECT_DIR$/rental-terms.html" />
+        <option value="$PROJECT_DIR$/swim-team.html" />
       </list>
     </option>
   </component>
@@ -163,7 +117,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="options.lastSelected" value="org.jetbrains.plugins.ruby.settings.RubyIdeSdkConfigurable" />
+    <property name="options.lastSelected" value="preferences.sourceCode.PHP" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -204,14 +158,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -430,31 +384,6 @@
         <state line="214" column="22" selection-start="5822" selection-end="5844" vertical-scroll-proportion="0.3487134" vertical-offset="2817" max-vertical-offset="13817" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/meet-the-owners.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="0" selection-start="2308" selection-end="2308" vertical-scroll-proportion="0.3398403" vertical-offset="427" max-vertical-offset="4502" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/a-letter.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="6" selection-start="2638" selection-end="2638" vertical-scroll-proportion="0.41969833" vertical-offset="472" max-vertical-offset="3887" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/camps.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="0" selection-start="2631" selection-end="2631" vertical-scroll-proportion="0.0" vertical-offset="870" max-vertical-offset="5865" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rental-terms.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="0" selection-start="1791" selection-end="2631" vertical-scroll-proportion="0.0" vertical-offset="870" max-vertical-offset="6180" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/swim-team.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="0" selection-start="2631" selection-end="2631" vertical-scroll-proportion="0.0" vertical-offset="870" max-vertical-offset="10320" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/less/styles.less">
       <provider selected="true" editor-type-id="text-editor">
         <state line="139" column="0" selection-start="5287" selection-end="5316" vertical-scroll-proportion="0.0" vertical-offset="2085" max-vertical-offset="4185" />
@@ -470,42 +399,79 @@
         <state line="32" column="10" selection-start="881" selection-end="881" vertical-scroll-proportion="0.42666668" vertical-offset="0" max-vertical-offset="1125" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="33" selection-start="228" selection-end="228" vertical-scroll-proportion="0.09536785" vertical-offset="0" max-vertical-offset="2745" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/become-a-member.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="133" column="37" selection-start="5223" selection-end="5239" vertical-scroll-proportion="0.0" vertical-offset="1365" max-vertical-offset="2745">
+        <state line="21" column="0" selection-start="909" selection-end="909" vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="2760">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/location.html">
+    <entry file="file://$PROJECT_DIR$/swim-team.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="186" column="0" selection-start="5873" selection-end="6135" vertical-scroll-proportion="0.0" vertical-offset="1884" max-vertical-offset="2985">
+        <state line="21" column="0" selection-start="909" selection-end="909" vertical-scroll-proportion="0.28610355" vertical-offset="0" max-vertical-offset="10395">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rental-terms.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="0" selection-start="909" selection-end="909" vertical-scroll-proportion="0.28610355" vertical-offset="0" max-vertical-offset="6255">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rental-faq.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="28" selection-start="2795" selection-end="2795" vertical-scroll-proportion="-19.041666" vertical-offset="533" max-vertical-offset="8445">
+        <state line="21" column="0" selection-start="909" selection-end="909" vertical-scroll-proportion="0.28610355" vertical-offset="0" max-vertical-offset="8460">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/friday-night-live.html">
+    <entry file="file://$PROJECT_DIR$/location.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="192" column="46" selection-start="5876" selection-end="5876" vertical-scroll-proportion="-17.5" vertical-offset="2460" max-vertical-offset="5145">
+        <state line="21" column="0" selection-start="909" selection-end="909" vertical-scroll-proportion="0.28610355" vertical-offset="0" max-vertical-offset="3000">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meet-the-owners.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="0" selection-start="909" selection-end="909" vertical-scroll-proportion="0.28610355" vertical-offset="0" max-vertical-offset="3495">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camps.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="0" selection-start="909" selection-end="909" vertical-scroll-proportion="0.28610355" vertical-offset="0" max-vertical-offset="5940">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pool-info.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="151" column="137" selection-start="4852" selection-end="4852" vertical-scroll-proportion="0.4359673" vertical-offset="1785" max-vertical-offset="2985">
+        <state line="21" column="0" selection-start="909" selection-end="909" vertical-scroll-proportion="0.28610355" vertical-offset="0" max-vertical-offset="3000">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="0" selection-start="833" selection-end="909" vertical-scroll-proportion="0.28610355" vertical-offset="0" max-vertical-offset="2760">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/friday-night-live.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="0" selection-start="909" selection-end="909" vertical-scroll-proportion="0.28610355" vertical-offset="0" max-vertical-offset="5160">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a-letter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="0" selection-start="909" selection-end="909" vertical-scroll-proportion="0.28610355" vertical-offset="0" max-vertical-offset="2880">
           <folding />
         </state>
       </provider>
